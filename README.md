@@ -64,4 +64,4 @@ images/
 
 ## Author
 
-Data Science Internship Project
+Zahra Fathima I
